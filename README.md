@@ -32,4 +32,4 @@ The trend of different countries.
 
 The word america and china are the two dominant words in the graph since they are two countries with highest GDP and economic growth. Canada also has a very high word frequency since it is contiguous to the United States and also a developed country. 
 
-Extension 4: I marked the lines where memory is lost. 
+ 
